@@ -20,7 +20,4 @@ Technologies I use frequently:
 ![image](https://user-images.githubusercontent.com/72056993/120913495-2fbb6300-c65d-11eb-842c-57ed8cf11398.png)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoacoMaurtua&show_icons=true&theme=tokyonight%22/%3E
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoacoMaurtua&layout=compact&theme=tokyonight%22/%3E
-
+<

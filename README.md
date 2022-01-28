@@ -1,10 +1,8 @@
-👋 Hi, I’m Joaquin.
+👋 Hi, I’m Joaquin, I really like to innovate, and have the opportunity to create value in society through technology, the basis of everything is teamwork and staying true to our dreams and goals...
 
 👀 I’m interested in Software Developement
 
 🌱 I’m currently learning MERN Full-Stack Developement @CodingDojo
-
-💞️ I’m looking to collaborate on some of your ideas
 
 📫 Reach me joacomaurtua@gmail.com
 

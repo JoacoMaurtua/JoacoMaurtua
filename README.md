@@ -2,8 +2,6 @@
 
 👀 I’m interested in Software Developement
 
-🌱 I’m currently learning MERN Full-Stack Developement @CodingDojo
-
 📫 Reach me joacomaurtua@gmail.com  //  https://www.linkedin.com/in/joaqu%C3%ADn-ma%C3%BArtua-a4403a209/
 
 Technologies I use frequently:

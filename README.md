@@ -4,7 +4,9 @@
 
 📫 Reach me joacomaurtua@gmail.com  //  https://www.linkedin.com/in/joaqu%C3%ADn-ma%C3%BArtua-a4403a209/
 
-🌟My portfolio: https://falcondevsportafolio.dev/
+🌟My personal portfolio: https://joacomaurtuadev.com
+
+🌟FalconDevs portfolio: https://www.falcondevelopersportfolio.dev/
 
 Technologies I use frequently:
 

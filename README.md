@@ -1,6 +1,6 @@
-👋 Hi, I’m Joaquin, I really like to innovate, and have the opportunity to create value in society through technology, the basis of everything is teamwork and staying true to our dreams and goals...
+👋 Hi, I’m Joaquin, I really like to innovate, and have the opportunity to create value in society through technology.
 
-👀 I’m interested in Software Developement
+I am a Full Stack MERN Developer with a passion for frontend development. I specialize in React.js and Vue.js and am currently working on an exciting ecommerce project.  I am an outgoing individual who thrives in team environments and enjoys bringing creativity and proactivity to every task. In my free time, I enjoy staying active at the gym, reading, acting, and indulging in my artistic side through drawing. With a strong skill set and a passion for innovation, I am always striving to take my development to the next level.
 
 📫 Reach me joacomaurtua@gmail.com  //  https://www.linkedin.com/in/joaqu%C3%ADn-ma%C3%BArtua-a4403a209/
 

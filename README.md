@@ -4,9 +4,7 @@ I am a Full Stack MERN Developer with a passion for frontend development. I spec
 
 📫 Reach me joacomaurtua@gmail.com  //  https://www.linkedin.com/in/joaqu%C3%ADn-ma%C3%BArtua-a4403a209/
 
-🌟My personal portfolio: https://joacomaurtuadev.com
-
-🌟FalconDevs portfolio: https://www.falcondevelopersportfolio.dev/
+🌟Real project created for a client: https://www.bukestore.com/
 
 Technologies I use frequently:
 
